@@ -13,6 +13,8 @@
  *     lights turn on. The lights can be turned off 
  *     manually with the button on the AVR or they 
  *     will turn off automatically after a set time.
+ *
+ * Written to be implemented on ATMega328p
  */ 
 
 #include <avr/io.h>
